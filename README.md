@@ -188,6 +188,8 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen WebDriver test automation framework for Node.js.
 * [taiko](https://github.com/getgauge/taiko) - A Node.js library with a simple API to automate Chromium based browsers.
 * [Playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
+* [CodeceptJS](https://codecept.io/)E2E testing framework with a special unificated BDD-style syntax for different frameworks.
+* [testomatio-reporter](https://github.com/testomatio/reporter) allows to analyze javascript tests, collect test metadata and report them to the testomat.io TCM system.
 
 ## QA Tools
 
